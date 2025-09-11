@@ -1,0 +1,11 @@
+upload
+download
+.vscode
+models
+app0.py
+logs.log
+.env
+train_model_test.ipynb
+upload_file.py
+halfmarathon_data.csv
+best_finalized_model.pkl

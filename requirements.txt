@@ -1,0 +1,11 @@
+python-dotenv
+pycaret
+boto3
+pandas
+seaborn
+streamlit
+joblib
+requests
+openai
+langfuse
+matplotlib
