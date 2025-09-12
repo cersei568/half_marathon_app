@@ -10,7 +10,7 @@ from dotenv import load_dotenv
 from openai import OpenAI
 from langfuse import Langfuse
 from langfuse.openai import OpenAI as LangfuseOpenAI
-from langfuse.decorators import observe
+from langfuse import observe
 
 
 load_dotenv()
