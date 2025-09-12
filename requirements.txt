@@ -12,5 +12,5 @@ streamlit
 joblib
 requests
 openai
-langfuse
+langfuse>=3.3.1
 matplotlib
