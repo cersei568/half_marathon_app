@@ -5,7 +5,7 @@
 An **AI-powered web app** that predicts your **half marathon finish time** based on your **5K performance, age, and gender**.  
 The app combines a **machine learning model**, **statistical fallback formulas**, and **natural language input parsing** using **OpenAI GPT models**.  
 
-👉 Try the app: **[Demo Link (Streamlit)](https://your-deployment-link.com)**  
+👉 Try the app: **[Demo Link (Streamlit)](https://halfmarathonapp.streamlit.app)**  
 👉 Explore the code: **[GitHub Repository](https://github.com/cersei568/half_marathon_app)**  
 
 ---
