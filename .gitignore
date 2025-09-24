@@ -6,7 +6,6 @@ logs.log
 train_model_test.ipynb
 upload_file.py
 halfmarathon_data.csv
-best_finalized_model.pkl
 *.ipynb
 .csv
 apptest.py
