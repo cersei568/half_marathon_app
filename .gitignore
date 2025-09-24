@@ -1,7 +1,6 @@
 upload
 download
 .vscode
-models
 logs.log
 .env
 train_model_test.ipynb
