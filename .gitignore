@@ -11,3 +11,4 @@ best_finalized_model.pkl
 *.ipynb
 .csv
 apptest.py
+.streamlit/secrets.toml
